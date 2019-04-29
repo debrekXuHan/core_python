@@ -1,2 +1,2 @@
 # core_python
-Codes of examples and exercise in Core Python. Enjoy it!
+Codes of examples and exercise in Core Python.
